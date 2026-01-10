@@ -1,3 +1,6 @@
+# Forgotten Lore Shard
+Many tales, one shard
+
 # Por que fazer um shard em 2026?
 
 Cada versão do shard trouxe um aprendizado em relação à versão anterior. Muitas vezes, a decisão de encerrar um shard vinha quando percebíamos que havia algo muito errado e que já tínhamos uma solução que poderia melhorar. Abaixo eu listo o que aprendemos em algumas versões do FLS e o que levamos para a próxima fase.
