@@ -1,5 +1,4 @@
 # Forgotten Lore Shard
-Many tales, one shard
 
 # Por que fazer um shard em 2026?
 
