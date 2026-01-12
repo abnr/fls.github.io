@@ -13,7 +13,9 @@ A [wiki](https://github.com/abnr/fls.github.io/wiki) do shard, onde tem informa�
 ## Arquivos de Instalação
 
 Você precisa fazer dois passos:
+
 1- Instalar o Ultime Online original que pode ser baixado gratuitamente aqui.
+
 2- Baixar a última versão do patch do shard desse link e dezipar na pasta da instalação do Ultima Online.
 
 
