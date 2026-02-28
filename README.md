@@ -1,4 +1,4 @@
-# Forgotten Lore Shardo
+# Forgotten Lore Shard
 O FLS é um shard de Ultima Online que começou np início dos anos 2000, quando o mundo era bem diferente do de hoje. Em poucas palavras, o shard é de RP oobrigatório, com vários sistemas customizados e diferentes do UO tradicional, um lore rico com participação dos jogadores e staff in game e características de roguelike como permadeath e idle game. Essa página vai ser estática e não vamos atualiza-la, para saber das informações do shard consulte os links abaixo.
 
 ## Fórum
